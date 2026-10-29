@@ -1,5 +1,4 @@
 # Quiz-Maths
 
-Students can use this site to complete Maths Quizes.
+Student use only.
 
-Created by St Columbas College Prep Deputy Head.
